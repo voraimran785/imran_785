@@ -1,6 +1,6 @@
  @media screen and (max-width: 1024px) {
 .banner {
-	min-height:600px;
+	min-height:100px;
 }
 #header .header-content {
 	width: 100%;
@@ -11,7 +11,7 @@
 }
 .navigation {
 	position: fixed;
-	background-color:556644;
+	background-color:RED;
 	width: 100%;
 	height: 100%;
 	top: 0;
