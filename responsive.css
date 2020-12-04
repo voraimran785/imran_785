@@ -4,6 +4,7 @@
 }
 #header .header-content {
 	width: 100%;
+       text-align: center;
 }
 .nav-toggle {
 	display: block;
